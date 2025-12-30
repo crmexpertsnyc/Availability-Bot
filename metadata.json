@@ -1,0 +1,5 @@
+{
+  "name": "AvailabilityIQ Control Center",
+  "description": "A centralized dashboard for monitoring team availability, managing the AvailabilityIQ Google Chat bot, and analyzing operational pulse through a clean, executive-safe interface.",
+  "requestFramePermissions": []
+}
